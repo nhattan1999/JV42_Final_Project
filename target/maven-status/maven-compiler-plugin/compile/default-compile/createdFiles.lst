@@ -15,6 +15,7 @@ com\mycompany\spring_mvc_project_final\entities\ColorEntity.class
 com\mycompany\spring_mvc_project_final\entities\OrderDetailEntity.class
 com\mycompany\spring_mvc_project_final\service\UserDetailsServiceImpl.class
 com\mycompany\spring_mvc_project_final\controller\AdminController.class
+com\mycompany\spring_mvc_project_final\controller\SellerController.class
 com\mycompany\spring_mvc_project_final\configuration\JPAConfig.class
 com\mycompany\spring_mvc_project_final\entities\CategoryEntity.class
 com\mycompany\spring_mvc_project_final\entities\PromotionEntity.class

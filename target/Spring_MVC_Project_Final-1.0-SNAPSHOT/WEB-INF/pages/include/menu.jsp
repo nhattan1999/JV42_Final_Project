@@ -20,6 +20,9 @@
             <sec:authorize access="hasRole('ROLE_ADMIN')">
                 <p><a href="<c:url value="/admin/home" />">Admin Home</a></p>
             </sec:authorize>
+            <sec:authorize access="hasRole('ROLE_ADMIN')">
+                <p><a href="<c:url value="/management/home" />">Seller Home</a></p>
+            </sec:authorize>    
             <sec:authorize access="hasRole('ROLE_USER')">
                 <p><a href="<c:url value="/user/home" />">User Home</a></p>
             </sec:authorize>
